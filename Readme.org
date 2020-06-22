@@ -1,0 +1,12 @@
+
+* Testing writing in org-mode
+  - here's another one
+  - another?
+  - I'm not sure if I'm doing this correctly
+** subpoint
+** another subpoint
+** another subpoint
+*** another 
+*** 
+*** 
+*** 
